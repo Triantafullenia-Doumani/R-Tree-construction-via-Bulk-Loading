@@ -1,4 +1,4 @@
-#TRIANTAFYLLIW DOUMANI 4052
+
 import sys
 
 _DIVISORS = [180.0 / 2 ** n for n in range(32)]
