@@ -18,4 +18,4 @@ object and start offset (respectively end offset) is the no. line in the coords.
 where the coordinates of the points that form the begin (respectively end)
 each object.
   
-command line : python3 R-Tree-construction-via-Bulk-Loading.py coords.txt offsets.txt
+command line : python3 Rtree_BL.py coords.txt offsets.txt
