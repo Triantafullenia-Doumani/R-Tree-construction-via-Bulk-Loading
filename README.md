@@ -11,9 +11,9 @@ Consequently, two MBRs that are close to space will most likely enter the same l
 
 Examples of input files are given. Coords.txt and offset.txt
 
-The coords.txt contains point coordinates in the form <x>, <y>. 
+The coords.txt contains point coordinates in the form (x, y). 
   
-The offset.txt contains entries of the form <id>, <startOffset>, <endOffset> where id is the unique identifier of a polygon
+The offset.txt contains entries of the form (id), (startOffset), (endOffset) where id is the unique identifier of a polygon
 object and start offset (respectively end offset) is the no. line in the coords.txt file
 where the coordinates of the points that form the begin (respectively end)
 each object.
