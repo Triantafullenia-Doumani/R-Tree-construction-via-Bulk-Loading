@@ -1,6 +1,6 @@
 # R-Tree-construction-via-Bulk-Loading
 
-this program calculates the MBRs of objects and then bulk
+This program calculates the MBRs of objects and then bulk
 loading the tree after sorting the MBRs using a space fill curve
 (space-filling curve), more specifically the z-order. These curves are functions,
 which map a multidimensional vector to a number in the one-dimensional
