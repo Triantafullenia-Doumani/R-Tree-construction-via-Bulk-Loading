@@ -7,8 +7,7 @@ which map a multidimensional vector to a number in the one-dimensional
 space. Two spatially close objects are very likely to
 correspond to nearby prices. 
 
-Consequently, two MBRs that are close to space will
-most likely enter the same leaf of the tree.
+Consequently, two MBRs that are close to space will most likely enter the same leaf of the tree.
 
 Examples of input files are given. Coords.txt and offset.txt
 
